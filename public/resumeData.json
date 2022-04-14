@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
+    "name": "Andrew Palo",
+    "occupation": "Aspiring Software Engineer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "andrewtpalo@gmail.com",
+    "phone": "614-893-0064",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Powell",
+      "state": "OH",
+      "zip": "43065"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://andrewtpalo.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1KEB37QnI1-L8vV3vBAX21_u7tZsa0N2u",
     "social": [
       {
         "name": "facebook",
@@ -48,27 +48,21 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "The Ohio State University",
+        "degree": "B.S. Electrical/Computer Engineering",
+        "graduated": "May 2022",
+        "description": "3.93 GPA, Business Minor, Summa Cum Laude, Honors Research Distinction"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Eschweiler and Potashnik, LLC",
+        "title": "Patent Engineer",
+        "years": "June 2020 - March 2022",
+        "description": "- Drafted several patent applications for inventions utilizing groundbreaking technologies in the following fields\n\t- Semiconductor device structure and fabrication\n\tBroadband cellular networking\nMaximized effectiveness of patent protection by drafting detailed yet broad claims\nConducted effective interviews with USPTO Patent Examiners to expedite application allowance\nPrepared several responses to communications received from the USPTO, such as office actions and appeal briefs\nCollaborated with in-house patent counsel for Fortune 500 companies, both in the US and abroad\nOversaw firmwide database outlining expected days of work and expected billings to optimize work item allocation \nStrategized and developed several Microsoft Office VBA macros for automating various aspects of patent prosecution"
       },
       {
-        "company": "Super Cool Studio",
+        "company": "Liberty Mutual Insurance ",
         "title": "Junior bug fixer",
         "years": "March 2007 - February 2010",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
