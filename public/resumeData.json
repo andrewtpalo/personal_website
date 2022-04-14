@@ -2,10 +2,10 @@
   "main": {
     "name": "Andrew Palo",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "- welcome to my virtual resume! I have a unique passion for developing creative solutions to complex challenges and I have a unique affinity for learning. These traits have brought me significant success in many different technical areas.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "My demonstrated academic success, my affinity for learning across a wide range of technical areas, and my interest and experience in software development may make me an excellent fit for fulfilling your software development needs. If you find my skill set to be in line with your needs, please contact me at your convenience.",
+    "contactmessage": "Contact Me",
     "email": "andrewtpalo@gmail.com",
     "phone": "614-893-0064",
     "address": {
@@ -18,30 +18,20 @@
     "resumedownload": "https://drive.google.com/uc?export=download&id=1KEB37QnI1-L8vV3vBAX21_u7tZsa0N2u",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/andrewpalo/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/andrewtpalo",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
-      }
+        "name": "twitter",
+        "url": "https://twitter.com/ATP_Coding",
+        "className": "fa fa-twitter"
+      }      
     ]
   },
   "resume": {
