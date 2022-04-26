@@ -198,6 +198,12 @@
         "category": "2021 Dec 8",
         "image": "microbiology.jpg",
         "url": "https://rdcu.be/cItMx"
+      },
+      {
+        "title": "Perfect Song Twitter Bot",
+        "category": "Bot programmed to tweet a perfect song every 6 hours including: artist, title, a corresponding link, and significant lyrics.",
+        "image": "10.jpg",
+        "url": "https://twitter.com/perfectsongbot"
       }
 
     ]
