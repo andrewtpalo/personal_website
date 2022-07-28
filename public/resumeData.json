@@ -47,6 +47,22 @@
     ],
     "work": [
       {
+        "company": "Fiserv, Inc.",
+        "title": "Technical Analyst - Cybersecurity",
+        "years": "July 2022 - Current",
+        "description": [
+          {
+          "bullet": "- Design and develop web applications for processing cybersecurity data from thousands of users, endpoints, and applications"
+          },
+          {
+          "bullet": "- Utilize modern technologies and frameworks such as React.js, Java, Spring Boot, MS SQL Server, and Oracle DB to build efficient and maintainable software"
+          },
+          {
+          "bullet": "- Worked closely with a plurality of business units to protect the company, its critical systems, and sensitive information from digital attacks"
+          }
+        ]
+      },
+      {
         "company": "Eschweiler and Potashnik, LLC",
         "title": "Patent Engineer",
         "years": "June 2020 - March 2022",
