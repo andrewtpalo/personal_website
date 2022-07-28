@@ -127,6 +127,44 @@
           "bullet": "- Managed endpoint security and incident response programs on servers for PCI compliance purposes"
           }
         ]
+      },
+      {
+        "company": "Olentangy Local School District",
+        "title": "IT Assistant",
+        "years": "May 2016 - August 2017",
+        "description": [
+          {
+          "bullet": "- Led a team in charge of imaging thousands of new PCs, and delivered them to their respective schools"
+          },
+          {
+          "bullet": "- Assisted with technological issues on a large district-wide scale through daily interactive support"
+          },
+          {
+          "bullet": "- -Provided maintenance on projectors, printers, PCs, and a variety of other hardware"
+          }
+        ]
+      },
+      {
+        "company": "Nationwide Children's Hospital",
+        "title": "Genetic Research Intern",
+        "years": "May 2014 - August 2015",
+        "description": [
+          {
+          "bullet": "- Performed genetic research specializing in pediatric neuromuscular disease therapies"
+          },
+          {
+          "bullet": "- Conducted research and presented findings to members of the research community"
+          },
+          {
+            "bullet": "- Co-authored abstract on “Exon skipping of the toxic DUX4 gene as a promising therapeutic approach for Facioscapulohumeral Muscular Dystrophy” which was presented to the American Society of Gene and Cell Therapy"
+          },
+          {
+            "bullet": "- Co-authored a paper featured on nature.com - 'Human miRNA miR-675 inhibits DUX4 expression and may be exploited as a potential treatment forFacioscapulohumeral muscular dystrophy 2021 Dec 8; https://rdcu.be/cItMx'"
+          },
+          {
+          "bullet": "- Received 1st place in annual 2015 Nationwide Children's Research Poster Competition"
+          }
+        ]
       }
     ],
     "skills": [
