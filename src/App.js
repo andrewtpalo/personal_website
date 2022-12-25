@@ -72,10 +72,10 @@ class App extends Component {
         <Route exact path="/manda" element={
         <body>
           <div class="message">
-            <p>You are the love of my life and the reason I wake up every morning. Every moment I spend with you is a moment filled with joy and passion. Your touch, your kiss, and your embrace set my soul on fire and leave me craving more.
+          <br/><br/><p class='signature'> MAnda,</p><p>You are the love of my life and the reason I wake up every morning. Every moment I spend with you is a moment filled with joy and passion. Your touch, your kiss, and your embrace set my soul on fire and leave me craving more.
 You are the most beautiful, intelligent, and loving person I have ever met, and I am so lucky to have you by my side. I am grateful for every moment we spend together, and I can't wait to see what the future holds for us.
 Doesn't matter if it's Powell, Green, or even Chicago, I am always excited try new things together because you create memories that last a lifetime.
-You are my everything, and I love you more than words could ever express.<br/><br/><p class='signature'> Love, <br/>Z❤</p></p>
+You are my everything, and I love you more than words could ever express.<br/><br/><p class='signature'> -Z❤</p></p>
           </div>          
       
         </body>
