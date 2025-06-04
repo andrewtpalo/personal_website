@@ -6,6 +6,7 @@ import {
   Link,
   useParams
 } from "react-router-dom";
+import Redirect from './Redirect';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
@@ -22,7 +23,7 @@ class App extends Component {
   constructor(props){
     super(props);
     this.state = {
-      foo: 'bar',
+      url : 'https://concerts.livenation.com/nessa-barrett-moved-from-lincoln-hall-chicago-illinois-03-13-2023/event/04005D9236944D03',
       resumeData: {}
     };
 
@@ -49,8 +50,7 @@ class App extends Component {
   componentDidMount(){
     this.getResumeData();
   }
-
-  render() {
+   render() {
     
     return (
       <Router>
@@ -68,20 +68,7 @@ class App extends Component {
             </div>
           }>
           </Route> 
-    
-        <Route exact path="/manda" element={
-        <body>
-          <div class="message">
-          <br/><br/><p class='signature'> MAnda,</p><p>You are the love of my life and the reason I wake up every morning. Every moment I spend with you is a moment filled with joy and passion. Your touch, your kiss, and your embrace set my soul on fire and leave me craving more.
-You are the most beautiful, intelligent, and loving person I have ever met, and I am so lucky to have you by my side. I am grateful for every moment we spend together, and I can't wait to see what the future holds for us.
-Doesn't matter if it's Powell, Green, or even Chicago, I am always excited try new things together because you create memories that last a lifetime.
-You are my everything, and I love you more than words could ever express.<br/><br/><p class='signature'> -Z❤</p></p>
-          </div>          
-      
-        </body>
-        }
-    >
-          </Route>
+
         </Routes>
 
       </Router>
