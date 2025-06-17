@@ -23,7 +23,6 @@ class App extends Component {
   constructor(props){
     super(props);
     this.state = {
-      url : 'https://concerts.livenation.com/nessa-barrett-moved-from-lincoln-hall-chicago-illinois-03-13-2023/event/04005D9236944D03',
       resumeData: {}
     };
 
