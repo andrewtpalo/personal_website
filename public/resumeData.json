@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Andrew Palo",
-    "occupation": "Software Engineer",
-    "description": "- welcome to my virtual resume! I have a unique passion for developing creative solutions to complex challenges and I have a unique affinity for learning. These traits have brought me significant success in many different technical areas.",
+    "occupation": "Senior Cybersecurity Engineer",
+    "description": "- welcome to my virtual resume! I build the security platforms other teams depend on — blending security architecture, vulnerability management, and risk mitigation with full ownership of the secure SDLC across cloud-native, IaC/CI-CD, and production AI/agentic systems.",
     "image": "profilepic.jpg",
-    "bio": "My demonstrated academic success, my affinity for learning across a wide range of technical areas, and my interest and experience in software development may make me an excellent fit for fulfilling your software development needs. If you find my skill set to be in line with your needs, please contact me at your convenience.",
+    "bio": "Senior cybersecurity engineer who builds the security platforms other teams depend on. Creator and owner of Fiserv's enterprise-wide cybersecurity analytics platform — the primary security reporting tool for one of the world's largest fintechs, serving 200+ daily active users. I blend security architecture, vulnerability management, and risk mitigation with full ownership of the secure SDLC: cloud-native design on GCP, Infrastructure-as-Code and CI/CD automation, RBAC and secure data handling, and production AI/agentic systems. Proven at translating complex security data into decision-ready insight for technical and executive audiences.",
     "contactmessage": "Contact Me",
     "email": "andrewtpalo@gmail.com",
     "phone": "614-893-0064",
@@ -35,30 +35,62 @@
     ]
   },
   "resume": {
-    "skillmessage": "I have significant professional/amateur experience with the following concepts/technologies:",
+    "skillmessage": "Core competencies I apply in production, at scale, every day:",
     "education": [
       {
         "school": "The Ohio State University",
-        "degree": "B.S. Electrical/Computer Engineering, Business Minor",
-        "graduated": "May 2022",
+        "degree": "B.S. Electrical & Computer Engineering, Business Minor",
+        "graduated": "May 2020",
         "gpa": "3.93",
         "description": "Summa Cum Laude, Honors Research Distinction"
       }
     ],
     "work": [
       {
-        "company": "Fiserv, Inc.",
-        "title": "Technical Analyst - Cybersecurity",
+        "company": "Fiserv (Fortune 500 fintech)",
+        "title": "Senior Cybersecurity Professional",
         "years": "July 2022 - Current",
         "description": [
           {
-          "bullet": "- Design and develop web applications for processing cybersecurity data from thousands of users, endpoints, and applications"
+          "bullet": "- Conceived, architected, and own the enterprise's primary cybersecurity metrics & analytics platform — adopted company-wide as the authoritative source of security reporting, with 200+ daily active users, thousands of daily pageviews, and thousands of monthly unique users across security, engineering, and leadership"
           },
           {
-          "bullet": "- Utilize modern technologies and frameworks such as React.js, Java, Spring Boot, MS SQL Server, and Oracle DB to build efficient and maintainable software"
+          "bullet": "- Own the full secure SDLC: full-stack build in Node.js, Express, and React, containerized with Docker & Kubernetes and provisioned via Terraform (IaC), deployed on Google Cloud through GitLab CI/CD pipelines — delivered within Agile/Scrum ceremonies"
           },
           {
-          "bullet": "- Worked closely with a plurality of business units to protect the company, its critical systems, and sensitive information from digital attacks"
+          "bullet": "- Serve as architecture SME for a second enterprise application (Next.js on GCP), leading security and architecture design reviews and guiding scalable, secure design decisions"
+          },
+          {
+          "bullet": "- Drive vulnerability management and remediation tracking — triaging findings from vulnerability scanners (Wiz, Snyk, Qualys, Rapid7) and SIEM / log platforms (Splunk, Chronicle, Elastic), and partnering with engineering teams to prioritize and close risk"
+          },
+          {
+          "bullet": "- Integrated production AI/LLM features into security applications, and apply deep command of cybersecurity concepts and risk mitigation to turn raw telemetry into reporting that drives remediation priorities and executive decision-making"
+          }
+        ]
+      },
+      {
+        "company": "Confidere — Secure Document SaaS (revenue-generating)",
+        "title": "Founder",
+        "years": "Live",
+        "description": [
+          {
+          "bullet": "- Built and operate a secure file-sharing and AI document-analysis platform for equity-advising firms and their clients — AI-driven scanning, grading, and automated report generation over sensitive financial documentation"
+          },
+          {
+          "bullet": "- Engineered security-first: role-based access control (RBAC), least-privilege design, and encrypted storage on Google Cloud Storage; grew to multiple paying clients at $1,000+ MRR"
+          }
+        ]
+      },
+      {
+        "company": "Discovify — AI Agent Workforce Platform",
+        "title": "Co-Creator",
+        "years": "2026",
+        "description": [
+          {
+          "bullet": "- Co-created an agentic AI platform of 30 specialist agents across 5 business suites (Revenue, Marketing, Finance, Customer Success, Operations), each with a leader agent, specialist roster, and tiered SaaS pricing"
+          },
+          {
+          "bullet": "- Designed for enterprise trust: human-in-the-loop approval workflows, 100% audit-logged actions, and on-demand or scheduled execution with real-time run visibility — shipped rapidly on GCP Cloud Run using AI-assisted development (Claude Code)"
           }
         ]
       },
@@ -169,73 +201,80 @@
     ],
     "skills": [
       {
-        "name": "Microsoft Office",
+        "name": "Security Architecture & Design Reviews",
         "level": "95%"
       },
       {
-        "name": "Java",
+        "name": "Vulnerability Management & Remediation",
+        "level": "95%"
+      },
+      {
+        "name": "Security Metrics & Analytics",
+        "level": "95%"
+      },
+      {
+        "name": "Risk Mitigation",
         "level": "90%"
       },
       {
-        "name": "C",
+        "name": "SIEM / Log Analysis (Splunk, Chronicle, Elastic)",
         "level": "90%"
+      },
+      {
+        "name": "Vuln Scanning (Wiz, Snyk, Qualys, Rapid7)",
+        "level": "90%"
+      },
+      {
+        "name": "Secure SDLC & RBAC / IAM",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript / TypeScript",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js / Express",
+        "level": "90%"
+      },
+      {
+        "name": "React / Next.js",
+        "level": "85%"
+      },
+      {
+        "name": "Google Cloud (Cloud Run, Storage, SQL)",
+        "level": "90%"
+      },
+      {
+        "name": "Terraform / Infrastructure-as-Code",
+        "level": "85%"
+      },
+      {
+        "name": "Docker & Kubernetes",
+        "level": "85%"
+      },
+      {
+        "name": "GitLab CI/CD & GitOps",
+        "level": "85%"
+      },
+      {
+        "name": "AI/LLM Integration & Agentic Systems",
+        "level": "85%"
       },
       {
         "name": "Python",
-        "level": "90%"
+        "level": "85%"
       },
       {
-        "name": "Agile Development",
-        "level": "90%"
-      },
-      {
-        "name": "Scrum",
-        "level": "90%"
-      },
-      {
-        "name": "Node.js",
+        "name": "Java",
         "level": "80%"
       },
       {
-        "name": "C++",
-        "level": "80%"
+        "name": "Agile / Scrum",
+        "level": "90%"
       },
       {
-        "name": "Kanban",
-        "level": "80%"
-      },
-      {
-        "name": "Vue.js",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "75%"
-      },
-      {
-        "name": "VBA",
-        "level": "75%"
-      },
-      
-      {
-        "name": "React.js",
-        "level": "70%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "PowerShell",
-        "level": "60%"
-      },
-      {
-        "name": "AWS",
-        "level": "60%"
-      },
-      {
-        "name": "MySQL",
-        "level": "50%"
+        "name": "AWS Fundamentals",
+        "level": "65%"
       }
     ]
   },
@@ -249,17 +288,10 @@
       },
       {
         "title": "Human miRNA miR-675 inhibits DUX4 expression and may be exploited as a potential treatment for FSHD",
-        "category": "2021 Dec 8",
+        "category": "Nature — Skeletal Muscle, Dec 2021",
         "image": "microbiology.jpg",
         "url": "https://rdcu.be/cItMx"
-      },
-      {
-        "title": "Perfect Song Twitter Bot",
-        "category": "Bot programmed to tweet a perfect song every 6 hours including: artist, title, a corresponding link, and significant lyrics.",
-        "image": "10.jpg",
-        "url": "https://twitter.com/perfectsongbot"
       }
-
     ]
   },
   "testimonials": {
