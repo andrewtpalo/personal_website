@@ -2,6 +2,10 @@
 node_modules
 /dist
 
+# Resume carries personal contact details; keep it out of version control.
+# Drop the current PDF into public/ locally before building.
+/public/Andrew_Palo_Resume.pdf
+
 # local env files
 .env.local
 .env.*.local
@@ -19,3 +23,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Firebase CLI
+.firebase/
+firebase-debug.log
